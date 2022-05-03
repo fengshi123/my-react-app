@@ -24,6 +24,7 @@
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject"
   },
+  "config-overrides-path": "config/index.js",
   "eslintConfig": {
     "extends": [
       "react-app",

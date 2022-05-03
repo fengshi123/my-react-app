@@ -1,5 +1,5 @@
-import './index.css';
-import Button from '../../components/Button';
+import './list.css';
+import Button from '../../components/Button/Button';
 
 const List = ()=> {
   return (
