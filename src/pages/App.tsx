@@ -1,9 +1,10 @@
-import './App.css';
-import Button from '../components/Button';
+
+import Button from '../components/Button/Buttom';
+import style from './App.module.less'
 
 const App = ()=> {
   return (
-    <div className="App">
+    <div className={style.App}>
       <Button />
     </div>
   );
